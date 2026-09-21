@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ed7c7becb738dacb88096b0a",
+  "owner": "jkcgyju7",
+  "repo": "page-651b2ba1175f93b8feb11287",
+  "title": "Xeno",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "651b2ba1175f93b8feb11287",
+      "a": "Xeno",
+      "b": "机场官网线路发布页",
+      "entity": "Xeno",
+      "brand": "Xeno",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5a9367f17cba9c96436124f541debc7492e2682bc90622cc0abd5ba816941445",
+      "content": {
+        "primary_entity": "Xeno",
+        "keyword1": "Xeno",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按年付可节省两个月费用。基础版每月100GB流量、支持3台设备，适合单人日常使用；旗舰版每月300GB流量、支持5台设备，并提供IPLC专线及流媒体解锁，适合对速度和稳定性有要求的用户；团队版每月1000GB流量、支持20台设备，附带VIP高带宽节点与企业定制路由，适合小型团队协作。订阅周期灵活，设备数量随套餐递增，选择时先统计常用设备数量，再根据月流量需求匹配档位。",
+          "AI_HERO_SUBTITLE": "Xeno多档订阅按需选择",
+          "AI_HERO_INTRO": "Xeno提供基础版、旗舰版与团队版三种订阅方案，覆盖从个人单设备到小型团队的多设备使用场景，用户可依据月流量、设备数量与线路偏好进行套餐对比。",
+          "AI_VISUAL_TITLE": "Xeno订阅方案概览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备量",
+          "AI_HIGHLIGHT_2": "按年付节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版搭载IPLC专线",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版100GB/3台设备，旗舰版300GB/5台设备，团队版1000GB/20台设备。",
+          "AI_FEATURE_TITLE_2": "订阅周期与计费",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付仅需十个月费用，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_3": "线路与场景适配",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线与流媒体解锁，团队版提供VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据不同设备系统选择对应的客户端，并参照客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月；年付分别为¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选定套餐到完成连接配置的完整流程。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数量，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统，参考客户端支持列表选择对应版本。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在选定客户端中依照文档导入订阅信息，完成连接配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xeno套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可以。如需变更套餐，在订阅周期结束后选择新档位即可，月付与年付均支持续费时调整。",
+          "AI_FAQ_QUESTION_2": "设备数量超出套餐限制会怎样？",
+          "AI_FAQ_ANSWER_2": "超出在线设备数量上限时，新设备可能无法建立连接，建议根据常用设备数量选择对应档位，或升级至团队版。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格为月付的十个月费用，相当于节省两个月，适合长期稳定使用的用户；月付更灵活，适合短期需求。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏加速和低延迟场景优化，适合对响应速度敏感的用户，配合全节点流媒体解锁可兼顾日常使用。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些定制功能？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并提供VIP高带宽节点和专属客户经理服务，适合多设备协作的小型团队。",
+          "AI_CLOSING_TITLE": "选择适合的Xeno订阅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按年付可节省两个月费用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfhxm.cn",
+    "host": "qfhxm.cn"
+  },
+  "file_hashes": {
+    "index.html": "6eef6ae6aa22159df3a58dbc69d7f743a53d39be0648364b26af6b5fba2c1dd0",
+    "sitemap.xml": "e977ffabc0a803a942696f32e54bec52ab0bc1308c39a979296222f7d625c983",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "422ae4a776de429bbc133907d6563dbeccabcc4216d9296802478bda2d5b007b",
+    "robots.txt": "8218fea64523f2be5e65cb44e906bb61625717226fbe8be8a6a7eeeeec3bb615",
+    "c52f683a8e55b50ecae45127ea888d5e.txt": "071c39968832553d663a572f2a81388c4d2b6b58237e48d963154dc32de53c4f"
+  },
+  "revision": "c13e34dddd9f2020bc427f04d08e49eca995395e28bd2f585a57ae0251d9a910"
+}
